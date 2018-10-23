@@ -1,0 +1,22 @@
+{
+  "name": "docker-container",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohseenrm/node-docker-container.git"
+  },
+  "author": "Mohseen Mukaddam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohseenrm/node-docker-container/issues"
+  },
+  "homepage": "https://github.com/mohseenrm/node-docker-container#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
